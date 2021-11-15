@@ -1,16 +1,3 @@
-# Object_Detection
+# YOLO Object Detection on PASCAL VOC
 
-
-
-
-added
-
-
-kk
-this is..??
-
-a
-
-hi
-This is a test..
-
+Implements YOLO loss function from scratch
